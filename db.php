@@ -1,5 +1,5 @@
 <?php
-	$con=mysqli_connect("localhost","azir","azir@bcs");
+	$con=mysqli_connect("localhost","username","password");
 
 	$query="create database kamu";
 	if(mysqli_query($con,$query)){
