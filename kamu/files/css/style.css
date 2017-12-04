@@ -1,0 +1,17 @@
+.table > tbody > tr > td{
+	
+	vertical-align: middle;
+}
+
+.table > tbody > tr > th{
+	text-align: center;
+	vertical-align: middle;
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #f4427d;
+  opacity: 1;
+  font-weight: 500;
+}
+
